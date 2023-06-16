@@ -165,7 +165,6 @@ Running test with C code:
     ninja -C out/Debug libyuv_unittest
     ninja -C out/Debug compare
     ninja -C out/Debug yuvconvert
-    ninja -C out/Debug yuvconstants
     ninja -C out/Debug psnr
     ninja -C out/Debug cpuid
 
